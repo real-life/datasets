@@ -1,0 +1,3 @@
+[submodule "forrest_gump"]
+	path = forrest_gump
+	url = http://psydata.ovgu.de/forrest_gump/.git
